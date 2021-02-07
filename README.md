@@ -2,6 +2,11 @@
 ## Customer Segementaion using RFM modeling and K-means Clustering
 
 Customer segmentation is a method of dividing customers into groups or clusters on the basis of common characteristics.
+
+It is useful to get this information so that the store can get help in personalize marketing and provide customers with relevant deals.
+
+With the help of this project, companies can run user-specific campaigns and provide user-specific offers rather than broadcasting same offer to all the users.
+
 In this case 
 RFM (Recency, Frequency, Monetary) analysis is a behavior-based approach grouping customers into segments. It groups the customers on the basis of their previous purchase transactions. How recently, how often, and how much did a customer buy. 
 * Recency (R): Who have purchased recently? Number of days since last purchase (least recency)
